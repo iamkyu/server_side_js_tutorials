@@ -11,5 +11,11 @@ packages.json 참고
 
 ##How does it work?
 default port: http://localhost:3000/
-topic register: /topic/new
-file upload: /upload
+- topic register: /topic/new
+- file upload: /upload
+
+##Structure
+--data
+--node_modules
+--views_file
+--uploads
