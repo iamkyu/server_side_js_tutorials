@@ -1,5 +1,6 @@
 ##serverside_javascript_tutorial
-참고 생활코딩 강좌: https://opentutorials.org/course/2136
+참고 생활코딩 강좌
+>https://opentutorials.org/course/2136
 
 ##installed npm
 packages.json 참고
@@ -10,12 +11,14 @@ packages.json 참고
 - underscore
 
 ##How does it work?
-default port: http://localhost:3000/
+>node app_file.js (or supervisor app_file.js)
+
+default port: http://localhost:3000/<br/>
 - topic register: /topic/new
 - file upload: /upload
 
 ##Structure
-| data |
-| node_modules |
-| views_file |
-| uploads |
+| data |<br/>
+| node_modules |<br/>
+| views_file |<br/>
+| uploads |<br/>
