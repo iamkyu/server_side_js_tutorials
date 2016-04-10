@@ -15,7 +15,7 @@ default port: http://localhost:3000/
 - file upload: /upload
 
 ##Structure
---data
---node_modules
---views_file
---uploads
+| data |
+| node_modules |
+| views_file |
+| uploads |
